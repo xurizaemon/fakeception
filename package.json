@@ -1,0 +1,28 @@
+{
+  "name": "fakeception",
+  "version": "0.0.1",
+  "description": "Take Fake.app fakeworkflow files, turn them into test instructions.",
+  "main": "fakeception.js",
+  "dependencies": {
+    "plist": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xurizaemon/fakeception.git"
+  },
+  "keywords": [
+    "fake.app",
+    "codeception",
+    "selenium"
+  ],
+  "author": "Chris Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xurizaemon/fakeception/issues"
+  },
+  "homepage": "https://github.com/xurizaemon/fakeception#readme"
+}
